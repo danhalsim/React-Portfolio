@@ -6,7 +6,7 @@
 
 This is my portfolio, made using React. Check it out!
 
-
+Link:
 
 ![screenshot](./my-project/public/screenshot.png)
 

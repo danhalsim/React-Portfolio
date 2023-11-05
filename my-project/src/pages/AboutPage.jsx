@@ -1,4 +1,5 @@
 // Fill in this page later
+// Add pictures later
 
 function AboutPage() {
     return (

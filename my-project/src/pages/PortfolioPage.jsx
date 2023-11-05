@@ -88,7 +88,7 @@ function PortfolioPage() {
                             {/* add description later */}
                         </p>
                         <img class="w-full rounded-lg" 
-                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170518568484474890/project20520screenshot20home20page.png?ex=6559555d&is=6546e05d&hm=987732e46817bc9a24f10a5d88885e2e1b3bfa31cbb1dda069472bbfc61f90ab&" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170565033038721085/image.png?ex=655980a3&is=65470ba3&hm=e9ba06182f3eaf6172576fd777ff0618b98a19932bae5ed7d61d521f9abcc484&" 
                         alt="office content 1"></img>
                         <a href="https://danhalsim.github.io/Work-Day-Scheduler/" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"

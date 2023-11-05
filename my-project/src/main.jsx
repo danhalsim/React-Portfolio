@@ -14,29 +14,29 @@ import PortfolioPage from './pages/PortfolioPage.jsx';
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <App/>,
-    errorElement: <ErrorPage/>,
+    element: <App />,
+    errorElement: <ErrorPage />,
     children: [
       {
         index: true,
-        element: <HomePage/>,
+        element: <HomePage />,
       },
       {
         path: '/about',
-        element: <AboutPage/>,
+        element: <AboutPage />,
       },
       {
         path: '/portfolio',
-        element: <PortfolioPage/>,
+        element: <PortfolioPage />,
       },
       {
         path: '/contact',
-        element: <ContactPage/>,
+        element: <ContactPage />,
       },
     ]
   }
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <RouterProvider router={ router } />
+  <RouterProvider router={router} />
 );

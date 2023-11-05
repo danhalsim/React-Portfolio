@@ -1,10 +1,11 @@
 import { Link, useLocation } from 'react-router-dom';
 import resume from '../../public/resume.pdf'; // add actual resume later
-import profilepic from '../../public/images/profile-picture.jpg'
 
 function Header() {
-  const location = useLocation();
 
+  // page location checker
+  // use this to change navbar page titles from gray to blue when user is on that page
+  const location = useLocation();
   const isCurrentPage = (pathname) => {
     return location.pathname === pathname;
   };
@@ -15,7 +16,8 @@ function Header() {
 
         <Link key={1} to="/">
           <a class="flex items-center">
-            <img src={profilepic} class="h-8 mr-3 rounded-lg" alt="profile picture" />
+            <img src="https://cdn.discordapp.com/attachments/1170517472307314719/1170579212726452264/IMAG0005_2.jpg?ex=65598dd8&is=654718d8&hm=5fbbdd20aba1d53c830e08f134b2bf1c8608a5aacb438231f10faae42d3649f2&"
+              class="h-8 mr-3 rounded-lg" alt="profile picture" />
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Daniel Simanjuntak</span>
           </a>
         </Link>

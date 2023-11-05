@@ -6,7 +6,14 @@
 
 This is my portfolio, made using React. Check it out!
 
-Link:
+Note: If Netlify is not working, please follow the steps below to run this application:
+- Clone this repository.
+- Open the terminal in the `my-project` folder.
+- Run `npm install`.
+- Run `npm run build`.
+- Run `npm run dev`.
+- Click on the local host link in the terminal to open the app in the browser.
+
 
 ![screenshot](./my-project/public/screenshot.png)
 

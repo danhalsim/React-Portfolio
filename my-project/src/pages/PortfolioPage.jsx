@@ -13,142 +13,138 @@ function PortfolioPage() {
 
                 <div class="grid grid-cols-1 mt-12 text-center sm:mt-16 gap-x-20 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
                     <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Alphabet Inc.
-                        </span>
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Official website
+                            Weather Dashboard
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170522786691829760/image.png?ex=6559594b&is=6546e44b&hm=c13b1f2bf4fa5d1c036c97e448989feb9e6c00c97eaf983d1cf67a8a13d8eb7a&" 
+                        alt="office content 1"></img>
+                        <a href="https://danhalsim.github.io/Weather-Dashboard/" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
                         </a>
-                        <a href="#" title=""
+                        <a href="https://github.com/danhalsim/Weather-Dashboard" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
 
                     <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Microsoft Corp.
-                        </span>
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Management system
+                            Film Finder
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170523184701911092/image.png?ex=655959aa&is=6546e4aa&hm=042b14a6553adf99fbc9eb70ac35c28f1539dfa9911268d1619e0c3215280be4&" 
+                        alt="office content 1"></img>
+                        <a href="https://maliacho.github.io/film-finder/" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
                         </a>
-                        <a href="#" title=""
+                        <a href="https://github.com/maliacho/film-finder" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
 
                     <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Adobe Inc.
-                        </span>
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Logo design
+                            Text Editor
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170523462125768806/image.png?ex=655959ec&is=6546e4ec&hm=f085d9c4c51701f1d90bb08b0d355cfd34ccc02414f29119736eff6063fd3c40&" 
+                        alt="office content 1"></img>
+                        <a href="https://danhalsim-text-editor-08dc2f937961.herokuapp.com/" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
                         </a>
-                        <a href="#" title=""
+                        <a href="https://github.com/danhalsim/Text-Editor" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
                 </div>
 
                 <div class="grid grid-cols-1 mt-12 text-center sm:mt-16 gap-x-20 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
-                    <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Alphabet Inc.
-                        </span>
+                <div class="space-y-4">
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Official website
+                            Work Day Scheduler
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170518568484474890/project20520screenshot20home20page.png?ex=6559555d&is=6546e05d&hm=987732e46817bc9a24f10a5d88885e2e1b3bfa31cbb1dda069472bbfc61f90ab&" 
+                        alt="office content 1"></img>
+                        <a href="https://danhalsim.github.io/Work-Day-Scheduler/" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
                         </a>
-                        <a href="#" title=""
+                        <a href="https://github.com/danhalsim/Work-Day-Scheduler" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
 
                     <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Microsoft Corp.
-                        </span>
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Management system
+                            E-commerce (Back End)
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170518285398327426/screenshot-insomnia.png?ex=6559551a&is=6546e01a&hm=c418690750fb4a6dbc774745293e7e00437e4d98ac2e4478f2f345ea9ec2813c&" 
+                        alt="office content 1"></img>
+                        {/* <a href="#" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
-                        </a>
-                        <a href="#" title=""
+                        </a> */}
+                        {/* back end; no deployed site */}
+                        <a href="https://github.com/danhalsim/E-commerce-Back-End" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
 
                     <div class="space-y-4">
-                        <span
-                            class="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-                            Adobe Inc.
-                        </span>
                         <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-                            Logo design
+                            Employee Tracker (Back End)
                         </h3>
                         <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
-                            Flowbite helps you connect with friends, family and communities of people who share your interests.
+                            {/* add description later */}
                         </p>
-                        <a href="#" title=""
+                        <img class="w-full rounded-lg" 
+                        src="https://cdn.discordapp.com/attachments/1170517472307314719/1170518407226077264/screenshot.png?ex=65595537&is=6546e037&hm=b766253b91c2f0065e9373e1085000fbd68e16653d04cf3e628f3063bc74558b&" 
+                        alt="office content 1"></img>
+                        {/* <a href="#" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
                             View deployed site
-                        </a>
-                        <a href="#" title=""
+                        </a> */}
+                        {/* back end; no deployed site */}
+                        <a href="https://github.com/danhalsim/Employee-Tracker" title="" target="_blank"
                             class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             role="button">
-                            Visit GitHub
+                            Visit GitHub repository
                         </a>
                     </div>
                 </div>

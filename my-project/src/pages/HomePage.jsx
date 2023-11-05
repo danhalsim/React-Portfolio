@@ -18,8 +18,8 @@ function HomePage() {
                         My projects
                     </a>
                 </div>
-                <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img src={profilepic}></img>
+                <div class="lg:mt-0 lg:col-span-5 lg:flex">
+                    <img class="rounded-lg" src={profilepic}></img>
                 </div>
             </div>
         </section>

@@ -1,4 +1,4 @@
-import profilepic from '../../public/images/profile-picture.jpg'
+import profilepic from '../../public/images/profile-picture.jpg' // change this to actual picture of me later
 
 function HomePage() {
     return (

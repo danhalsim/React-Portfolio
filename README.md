@@ -6,7 +6,10 @@
 
 This is my portfolio, made using React. Check it out!
 
+https://stupendous-sopapillas-0f3063.netlify.app/
+
 Note: If Netlify is not working, please follow the steps below to run this application:
+
 - Clone this repository.
 - Open the terminal in the `my-project` folder.
 - Run `npm install`.
@@ -14,9 +17,7 @@ Note: If Netlify is not working, please follow the steps below to run this appli
 - Run `npm run dev`.
 - Click on the local host link in the terminal to open the app in the browser.
 
-
 ![screenshot](./my-project/public/screenshot.png)
-
 
 ## Table of Contents
 
@@ -28,16 +29,13 @@ Note: If Netlify is not working, please follow the steps below to run this appli
 - [Tests](#Tests)
 - [Questions](#Questions)
 
-
 ## Installation
 
 N/A
 
-
 ## Usage
 
 N/A
-
 
 ## Credits
 
@@ -53,23 +51,19 @@ N/A
   - page location checker (Header.jsx lines 8-10)
   - form submission logic (ContactPage.jsx lines 4-17)
 
-
 ## License
 
 This project uses the MIT License.
 
-https://opensource.org/licenses/MIT 
-
+https://opensource.org/licenses/MIT
 
 ## Contributions
 
 N/A
 
-
 ## Tests
 
 N/A
-
 
 ## Questions
 

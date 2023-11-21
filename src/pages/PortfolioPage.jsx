@@ -15,20 +15,20 @@ function PortfolioPage() {
 
         <div class="space-y-4">
             <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-              Keep Notes
+              Task Tracker
             </h3>
             <p class="text-lg font-normal text-gray-500 dark:text-gray-400">
               {/* add description later */}
             </p>
             <img class="w-full rounded-lg"
-              src="https://cdn.discordapp.com/attachments/1170517472307314719/1171576356572770465/image.png?ex=655d2e82&is=654ab982&hm=df19a2c26d8a2fd677b577ed2fa82e4a8c232596e97a446b07b7b3cbf6356f38&"
+              src="https://cdn.discordapp.com/attachments/1170517472307314719/1176413666652987442/image.png?ex=656ec79a&is=655c529a&hm=901895a04127df0db2c5354ab63cff9cb02d06401df762e72705904323e7368c&"
               alt="office content 1"></img>
-            <a href="https://danhalsim-keep-notes-copy-8ccda7b0ca43.herokuapp.com/" title="" target="_blank"
+            <a href="https://danhalsim-task-tracker-f178c0efda88.herokuapp.com/" title="" target="_blank"
               class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 md:hover:text-blue-700"
               role="button">
               View deployed site
             </a>
-            <a href="https://github.com/danhalsim/Keep-Notes" title="" target="_blank"
+            <a href="https://github.com/danhalsim/Task-Tracker" title="" target="_blank"
               class="text-gray-500 bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 md:hover:text-blue-700"
               role="button">
               Visit GitHub repository
@@ -100,9 +100,7 @@ function PortfolioPage() {
               Visit GitHub repository
             </a>
           </div>
-        </div>
 
-        <div class="grid grid-cols-1 mt-12 text-center sm:mt-16 gap-x-20 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
           <div class="space-y-4">
             <h3 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
               Work Day Scheduler
